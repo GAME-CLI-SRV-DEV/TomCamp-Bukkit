@@ -1,7 +1,8 @@
-Bukkit
+Bukkit - Tom Camp Edition
 ======
 
-A Minecraft Server API.
+A Minecraft Server API, Intergrated Into Talking Tom Camp
+For Minecraft, See NogyangSpigot.
 
 Website: [http://bukkit.org](http://bukkit.org)  
 Bugs/Suggestions: [http://leaky.bukkit.org](http://leaky.bukkit.org)  
